@@ -57,7 +57,7 @@ function Home() {
           </div>
           <div className="flex-1 flex justify-end py-2 pr-2 lg:pr-12">
             <Link
-              to={"/login"}
+              to={"/auth"}
               className="bg-secondary px-4 py-2 rounded-lg font-semibold btn">
               Login
             </Link>
